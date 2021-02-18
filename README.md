@@ -1,0 +1,1 @@
+# Gradient Descent implementation in python and using it for linear regression.
